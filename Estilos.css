@@ -1,5 +1,5 @@
 body{
-	background: url("fondo1.jpg");
+	background: url("Fondo1.jpg");
 }
 
 h1{
@@ -53,17 +53,17 @@ p{
 	border: 1;
 	border-color: black;
 }
-/*Tamaño imagenes productos*/
+/*TamaÃ±o imagenes productos*/
 .img{
 	width: 300;
 	height: 250;
 }	
-/*Tamaño logo*/
+/*TamaÃ±o logo*/
 .img2{
 	width: 300;
 	height: 150;
 }
-/*tamaño imagenes marquee*/
+/*tamaÃ±o imagenes marquee*/
 .pimg{
 	width: 300;
 	height: 250;
@@ -109,7 +109,7 @@ p{
 			/*colocar sombra div*/
 			/*	 x y Radio Color*/
 	 box-shadow: 0 0 10px red;
-	/* Cambiar tamaño de escala del div*/
+	/* Cambiar tamaÃ±o de escala del div*/
 	 transform: scale(1.3);
 }
 
